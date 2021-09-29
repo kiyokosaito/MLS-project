@@ -21,3 +21,7 @@ Machine Learning and Statistics assessment
 1. Download [Anaconda]()
 2. Download [cmder]() if on Windows.
 3. Run "jupyter lab".
+
+## You can view the notebook in static form by clicking the following image:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/kiyokosaito-mls-project-ck1dg11t/lab)
