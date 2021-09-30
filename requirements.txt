@@ -1,3 +1,5 @@
+Scikit-Learn and SciPy Stats requirements
+
 Numpy
 Scipy
 Matplotlib
