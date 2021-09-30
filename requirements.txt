@@ -1,0 +1,6 @@
+Numpy
+Scipy
+Matplotlib
+IPython
+Sympy
+Pandas
