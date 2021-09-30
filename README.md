@@ -30,4 +30,5 @@ Machine Learning and Statistics assessment
 ### Requirements for Scikit-Learn and Scipy Stats
 
 #### Scikit-Learn 
-1. Numpy, SciPy, Matplotlib, IPython, Sympy, Pandas [A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library] (https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
+1. Numpy, SciPy, Matplotlib, IPython, Sympy, Pandas
+[A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library](https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
