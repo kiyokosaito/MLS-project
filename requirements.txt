@@ -6,3 +6,4 @@ Matplotlib
 IPython
 Sympy
 Pandas
+Numpy
